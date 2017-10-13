@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/myblog/main.jsp=UTF-8
+encoding//WebContent/myblog/menu.jsp=UTF-8
+encoding//src/org/dimigo/servlet/BlogLoginServlet.java=UTF-8
+encoding//src/org/dimigo/servlet/Helloservlet.java=UTF-8
+encoding//src/org/dimigo/servlet/LoginServlet.java=UTF-8
